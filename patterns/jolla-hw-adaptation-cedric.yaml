@@ -15,7 +15,7 @@ Requires:
 - droid-config-cedric-bluez5
 - droid-hal-version-cedric
 - droid-hal-cedric-detritus
-
+- jolla-settings-system-flashlight 
 # Hybris packages
 - libhybris-libEGL
 - libhybris-libGLESv2
