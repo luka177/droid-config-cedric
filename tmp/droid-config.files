@@ -75,5 +75,10 @@
 /usr/libexec/droid-hybris/system/etc/init/mediacodec.rc
 /usr/libexec/droid-hybris/system/etc/init/rild.rc
 /usr/libexec/droid-hybris/system/etc/init/vold.rc
+/usr/bin/droid/droid-hcismd-up.sh
 /lib/systemd/system/wlan-module-load.service
 /lib/systemd/system/multi-user.target.wants/wlan-module-load.service
+/lib/systemd/system/bluetooth.service.wants/droid-hcismd-up.service
+/lib/systemd/system/droid-hcismd-up.service
+/etc/gst-droid/gstdroidcamsrc-0.conf
+/etc/gst-droid/gstdroidcamsrc-1.conf
